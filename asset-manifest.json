@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://ameen7864.github.io/csb-sjwz3i/static/css/main.49630d17.chunk.css",
+    "main.js": "https://ameen7864.github.io/csb-sjwz3i/static/js/main.4dd8aeef.chunk.js",
+    "main.js.map": "https://ameen7864.github.io/csb-sjwz3i/static/js/main.4dd8aeef.chunk.js.map",
+    "runtime-main.js": "https://ameen7864.github.io/csb-sjwz3i/static/js/runtime-main.90947f50.js",
+    "runtime-main.js.map": "https://ameen7864.github.io/csb-sjwz3i/static/js/runtime-main.90947f50.js.map",
+    "static/js/2.70dac7e8.chunk.js": "https://ameen7864.github.io/csb-sjwz3i/static/js/2.70dac7e8.chunk.js",
+    "static/js/2.70dac7e8.chunk.js.map": "https://ameen7864.github.io/csb-sjwz3i/static/js/2.70dac7e8.chunk.js.map",
+    "static/js/3.987019aa.chunk.js": "https://ameen7864.github.io/csb-sjwz3i/static/js/3.987019aa.chunk.js",
+    "static/js/3.987019aa.chunk.js.map": "https://ameen7864.github.io/csb-sjwz3i/static/js/3.987019aa.chunk.js.map",
+    "index.html": "https://ameen7864.github.io/csb-sjwz3i/index.html",
+    "static/css/main.49630d17.chunk.css.map": "https://ameen7864.github.io/csb-sjwz3i/static/css/main.49630d17.chunk.css.map",
+    "static/js/2.70dac7e8.chunk.js.LICENSE.txt": "https://ameen7864.github.io/csb-sjwz3i/static/js/2.70dac7e8.chunk.js.LICENSE.txt",
+    "static/js/3.987019aa.chunk.js.LICENSE.txt": "https://ameen7864.github.io/csb-sjwz3i/static/js/3.987019aa.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.mp3": "https://ameen7864.github.io/csb-sjwz3i/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "https://ameen7864.github.io/csb-sjwz3i/static/media/play.8e5f6d1d.mp3",
+    "static/media/wrong.e9468218.mp3": "https://ameen7864.github.io/csb-sjwz3i/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90947f50.js",
+    "static/js/2.70dac7e8.chunk.js",
+    "static/css/main.49630d17.chunk.css",
+    "static/js/main.4dd8aeef.chunk.js"
+  ]
+}
